@@ -27,3 +27,21 @@ Relational operators (>, <, >=, <=, ==) and logical operators (and, or, not) are
 5. User Input and Output
 
 The input() function is used to take data from the user, and print() is used to display the results. Type conversion functions like int() and float() ensure correct calculations.
+
+ALGORITHM:
+
+1 Check Whether a Number is Positive, Negative, or Zero
+
+Algorithm:
+
+1. Start
+
+2. Input a number num
+
+3. If num > 0, print "Positive"
+
+4. Else if num < 0, print "Negative"
+
+5. Else print "Zero"
+
+6. Stop
